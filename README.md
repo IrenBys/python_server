@@ -1,4 +1,4 @@
 # python_server
 
 
-Examples of socket and http server
+Examples of socket and http servers
